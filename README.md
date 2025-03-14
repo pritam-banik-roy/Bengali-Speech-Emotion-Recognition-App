@@ -14,6 +14,7 @@ The project uses a curated Bengali speech emotion dataset containing labeled aud
 - Happy
 - Sad
 - Angry
+- Surprise
 - Neutral
 
 ## Installation
