@@ -20,7 +20,7 @@ The project uses a curated Bengali speech emotion dataset containing labeled aud
 ## Installation
 Clone the repository:
 ```bash
-git clone https://github.com/your-repo/bengali-speech-emotion-recognition.git
+git clone (https://github.com/pritam-banik-roy/Bengali-Speech-Emotion-Recognition-App.git)
 cd bengali-speech-emotion-recognition
 ```
 Install dependencies:
